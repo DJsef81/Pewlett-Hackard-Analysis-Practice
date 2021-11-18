@@ -35,16 +35,16 @@ With our analysis, PH will know the number of retiring employees by their curren
 * We also ran additional queries to determine the number of potential mentors by department.  
 
 ## Number of Retiring Employees by Job Title
-![](Retiring_titles.png)
+![](https://github.com/DJsef81/Pewlett-Hackard-Analysis-Practice/blob/main/png%20files/Retiring_titles.png)
 
 ## Mentorship Eligibility 
-[Click here to view our complete mentorship eligibility analysis](/Data/mentorship_eligibility.csv)
+[Click here to view our complete mentorship eligibility analysis](Data/mentorship_eligibility.csv)
 
 ## Potential Mentors Count by Job Title
-![](potential_mentors_count.png)
+![](https://github.com/DJsef81/Pewlett-Hackard-Analysis-Practice/blob/main/png%20files/potential_mentors_count.png)
 
 ## Number of Potential Mentors by Department 
-![](department_eligible_count.png)
+![](https://github.com/DJsef81/Pewlett-Hackard-Analysis-Practice/blob/main/png%20files/department_eligible_count.png)
 
 # SUMMARY
 * Identify employees who are eligible to participate in a mentorship program
