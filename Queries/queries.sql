@@ -181,6 +181,8 @@ SELECT*FROM sales_info
 
 
 -- sales and development merge
+-- with th WHERE clause The IN condition is necessary because you're creating two items +
+-- in the same column.
 SELECT re.emp_no,
 	re.first_name,
 	re.last_name,
